@@ -1,16 +1,20 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**fitriarta/fitriarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nama
+[Fitri Arta Wijaya]
 
-Here are some ideas to get you started:
+## Tentang Saya
+[saya lahir di lampung selatan pada tanggal 14 oktober 2007]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan
+-[SMA Sains Al-Qur'an], [SMA], [2023] - [2026]
+
+## Pengalaman Kerja
+- [belum bekerja]
+
+
+
+## Kontak
+- Email: [tatagemoy021@gmail.com]
+- GitHub: [fitriarta]
+- instagram:[artawjya_]
